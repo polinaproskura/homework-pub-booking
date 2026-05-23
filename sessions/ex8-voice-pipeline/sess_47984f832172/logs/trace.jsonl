@@ -1,0 +1,6 @@
+{"event_type": "voice.utterance_in", "actor": "user", "timestamp": "2026-05-23T12:35:20.078799+00:00", "payload": {"text": "Hi Alasdair, I'd like to book a table for Friday 19:30, party of 6.", "turn": 0, "mode": "text"}}
+{"event_type": "voice.utterance_out", "actor": "manager", "timestamp": "2026-05-23T12:35:22.693345+00:00", "payload": {"text": "Aye, we can do that. I'll pencil you in for Friday at 19:30. What's the contact number?", "turn": 0, "mode": "text"}}
+{"event_type": "voice.utterance_in", "actor": "user", "timestamp": "2026-05-23T12:35:22.694093+00:00", "payload": {"text": "Great \u2014 the deposit is \u00a3200, and the catering tier is bar_snacks.", "turn": 1, "mode": "text"}}
+{"event_type": "voice.utterance_out", "actor": "manager", "timestamp": "2026-05-23T12:35:24.482645+00:00", "payload": {"text": "Aye, we can do that. I'll pencil you in for Friday at 19:30. What's the contact number?", "turn": 1, "mode": "text"}}
+{"event_type": "voice.utterance_in", "actor": "user", "timestamp": "2026-05-23T12:35:24.483544+00:00", "payload": {"text": "Thanks, that's everything. Cheers!", "turn": 2, "mode": "text"}}
+{"event_type": "voice.utterance_out", "actor": "manager", "timestamp": "2026-05-23T12:35:24.776960+00:00", "payload": {"text": "See ye Friday.", "turn": 2, "mode": "text"}}

@@ -1,0 +1,20 @@
+{
+  "ticket_id": "tk_dadd3dcc",
+  "operation": "executor.run_subgoal/sg_1",
+  "started_at": "2026-05-23T12:34:56.125300+00:00",
+  "completed_at": "2026-05-23T12:34:56.126212+00:00",
+  "duration_ms": 0,
+  "outputs": [
+    {
+      "path": "/Users/polinaparig/Downloads/ClaudeCodeFolder/homework-pub-booking/sessions/ex5-edinburgh-research/sess_8eba23f49fb6/logs/tickets/tk_dadd3dcc/raw_output.json",
+      "sha256": "2d225630a6c205dbb8e7686200dbdd8b9f3102e9ad4094764ce55cb415c2811d",
+      "size_bytes": 2060,
+      "content_type": "application/json"
+    }
+  ],
+  "metrics": {
+    "tool_calls": 5,
+    "turns_used": 4,
+    "handoff_requested": false
+  }
+}
